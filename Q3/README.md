@@ -1,4 +1,4 @@
-# Q2 - Contains Duplicate
+# Q3 - Contains Duplicate
 
 ## Problem
 Given an integer array, return true if any value appears at least twice.
